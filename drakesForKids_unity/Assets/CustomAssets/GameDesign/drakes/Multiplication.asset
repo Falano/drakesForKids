@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1409910b35477f84dae96fcf7ba737f0, type: 3}
+  m_Name: Multiplication
+  m_EditorClassIdentifier: 
+  type: 1
+  EggSprites:
+  - {fileID: 21300000, guid: 61859d8a43695424bb75888ac01f092d, type: 3}
+  - {fileID: 21300000, guid: ef82235808ebbb6449a510768651214c, type: 3}
+  - {fileID: 21300000, guid: f0324405b6d8a63409b0ea09be9774cf, type: 3}
+  HatchedSprites:
+  - {fileID: 21300000, guid: 401b3a4bc90a28246a5817572bc76b2e, type: 3}
+  - {fileID: 21300000, guid: 8a252bff648129b4594c0e3351b763e5, type: 3}
+  - {fileID: 21300000, guid: eb81e387764481349aeb2f5b3ff2535e, type: 3}
+  difficulties:
+  - difficultyLevel: 0
+    minNumber: 2
+    maxNumber: 5
+  - difficultyLevel: 1
+    minNumber: 4
+    maxNumber: 10
+  - difficultyLevel: 2
+    minNumber: 11
+    maxNumber: 50

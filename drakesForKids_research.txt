@@ -1,0 +1,77 @@
+
+
+
+
+
+give goal temp
+when reached, again
+*6
+
+
+you may want a piece of paper!
+
+1st level, 2 1st: can reach within one
+1st level, 2 2st: can reach within two
+1 st level, 2 last: can reach within (random(2-5))
+
+lvl 0a: add
+
+lvl 1a : add/sub, <10 (0-100°)
+lvl 1b : add/sub, 10<x<50 (0-500°)
+lvl 1c : add/sub, 50<x<300 (0-3000°)
+
+lvl 2a : multiply then add/sub, <5 (0-?)
+.1: *2-4
+.3: *3-7
+.5: *4-12
+
+lvl 3a : divide then add/sub, <5 ()
+.1: /2-4
+.3: /3-10..?
+
+food (flowers)? find the one closest but below overeating.
+(wants to eat 13 tulips! Y/N. How many?)
+multiply then -> add (satiety) <- o sub (hunger)
+
+drink? Give them to drink at the right hour (si tu leur donnes avant? ils ne sont pas contents. Si tu leur donnes après? Ils récupèrent la moitié de leurs points de soif puis ça compte comme "avant") (le temps avance en continu ou répondre à des propositions?)
+
+play? labyrinth (written directions)? (ou trouver charlie pour la lecture) (ça commence à faire masse de boulot graphique)
+un memory?
+
+Tourne vers / va vers / dirige-toi vers
+la droite / le haut / le bas / la gauche
+après / avant
+le chat / l'arbre / la fleur / la maison / le lapin / 
+
+Trouve l'homme au chapeau bleu caché derrière un arbre.
+Trouve le chat vert qui mange.
+Trouve l'oiseau rouge près de la fontaine.
+
+pet? just one anim where they're happy
+
+get food? grow flowers (or walk in the woods and pick flowers (or mushrooms)). A flower of the same colour as a dragon will be *2-5 as efficient
+
+
+food (fish)?
+(you give it a piece of food. It's a big one! In how many pieces do you cut it)
+divide then add
+
+
+give enough food and they make an egg (rand colors between Dad and Mom's, it will be of the type of the smaller one)
+(choose random color from list Mom+Dad)
+
+drake: colors, type (enum), pattern (enum?), name, food meter 
+(possibilité d'échanger des dragons? param: breederName)
+
+every draw, 3 egg * subl * lvl
+(new draw every hatched egg, but you can get several eggs from each draw maybe)
+
+
+
+
+
+egg;
+create coal/ice
+choose rand value from current e coal/ice values
+
+Temp manager
