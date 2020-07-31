@@ -2,14 +2,8 @@ eggs inventory
 drakes inventory (drakes are only hatched eggs)
 color list
 
-check why leaving hatchscene makes all first colors in inventory blank
-palette! allow several palettes per line in the map (color grabber)
-
-
 check ember and ice values for high-lvl drakes
 navigation in market manager and inventories
 
 
 reexport graphics (lights harsher and shadows differently shaped)
-
-

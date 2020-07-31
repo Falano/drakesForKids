@@ -33,7 +33,9 @@ food (flowers)? find the one closest but below overeating.
 (wants to eat 13 tulips! Y/N. How many?)
 multiply then -> add (satiety) <- o sub (hunger)
 
-drink? Give them to drink at the right hour (si tu leur donnes avant? ils ne sont pas contents. Si tu leur donnes après? Ils récupèrent la moitié de leurs points de soif puis ça compte comme "avant") (le temps avance en continu ou répondre à des propositions?)
+drink? Give them to drink at the right hour (si tu leur donnes avant? ils ne sont pas contents. Si tu leur donnes après? 
+Ils récupèrent la moitié de leurs points de soif puis ça compte comme "avant") (le temps avance en continu ou 
+répondre à des propositions?)
 
 play? labyrinth (written directions)? (ou trouver charlie pour la lecture) (ça commence à faire masse de boulot graphique)
 un memory?
@@ -49,7 +51,8 @@ Trouve l'oiseau rouge près de la fontaine.
 
 pet? just one anim where they're happy
 
-get food? grow flowers (or walk in the woods and pick flowers (or mushrooms)). A flower of the same colour as a dragon will be *2-5 as efficient
+get food? grow flowers (or walk in the woods and pick flowers (or mushrooms)). A flower of the same colour as a dragon 
+will be *2-5 as efficient
 
 
 food (fish)?
