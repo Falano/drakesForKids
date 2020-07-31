@@ -4,6 +4,9 @@ using UnityEngine;
 
 public static class ColorGrabber
 {
+    // careful: hasn't been updated from when colormaps were
+    // wide as one palette length and high as the number of different palettes
+    // TODO: update it to work with the new grey-bordered colormap format
     public static Color[,] GrabColorsFromFile(Texture2D map)
     {
         Color[,] Colors = new Color[map.width, map.height];
